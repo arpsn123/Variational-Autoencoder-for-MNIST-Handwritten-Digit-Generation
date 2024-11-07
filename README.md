@@ -1,6 +1,18 @@
 # Variational Autoencoder (VAE) on MNIST Dataset
 
-![Project Status](https://img.shields.io/badge/status-active-brightgreen)
+![GitHub Repo Stars](https://img.shields.io/github/stars/arpsn123/Variational-Autoencoder-for-MNIST-Handwritten-Digit-Generation?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/arpsn123/Variational-Autoencoder-for-MNIST-Handwritten-Digit-Generation?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/arpsn123/Variational-Autoencoder-for-MNIST-Handwritten-Digit-Generation)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/arpsn123/Variational-Autoencoder-for-MNIST-Handwritten-Digit-Generation)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/arpsn123/Variational-Autoencoder-for-MNIST-Handwritten-Digit-Generation)
+![GitHub Contributors](https://img.shields.io/github/contributors/arpsn123/Variational-Autoencoder-for-MNIST-Handwritten-Digit-Generation)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/arpsn123/Variational-Autoencoder-for-MNIST-Handwritten-Digit-Generation)
+![GitHub Language Count](https://img.shields.io/github/languages/count/arpsn123/Variational-Autoencoder-for-MNIST-Handwritten-Digit-Generation)
+![GitHub Top Language](https://img.shields.io/github/languages/top/arpsn123/Variational-Autoencoder-for-MNIST-Handwritten-Digit-Generation)
+![GitHub Watchers](https://img.shields.io/github/watchers/arpsn123/Variational-Autoencoder-for-MNIST-Handwritten-Digit-Generation?style=social)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/arpsn123/Variational-Autoencoder-for-MNIST-Handwritten-Digit-Generation)
+![Maintenance Status](https://img.shields.io/badge/Maintained-Yes-green)
+
 
 
 ## Table of Contents
